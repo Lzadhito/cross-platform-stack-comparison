@@ -43,5 +43,5 @@
     "@types/react": "~18.2.14"
   },
   "private": true,
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.1.0"
 }
